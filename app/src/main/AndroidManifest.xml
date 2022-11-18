@@ -10,6 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WSApp">
         <activity
+            android:name=".SignInScreen"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.SignInScreen"
+            android:exported="false"
+            android:label="@string/title_activity_sign_in_screen" />
+        <activity
             android:name=".SignUpScreen"
             android:exported="false" />
         <activity

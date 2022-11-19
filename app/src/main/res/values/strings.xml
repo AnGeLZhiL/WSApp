@@ -19,4 +19,6 @@
     <string name="SignUp1">Зарегистироваться</string>
     <string name="HaveAcc">У меня уже есть аккаунт</string>
     <string name="worldcinema">WorldCinema</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
